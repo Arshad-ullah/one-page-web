@@ -1,0 +1,117 @@
+{
+  "FT_1X2": {
+    "160205619": [
+      {
+        "kindsCode": "FT_1X2",
+        "oddsType": "OU",
+        "handicap": "Home",
+        "odds": 2.33,
+        "rr": 0.92,
+        "wr": 0.38,
+        "homeOrAway": ""
+      },
+      {
+        "kindsCode": "FT_1X2",
+        "oddsType": "OU",
+        "handicap": "Away",
+        "odds": 2.95,
+        "rr": 0.92,
+        "wr": 0.3,
+        "homeOrAway": ""
+      },
+      {
+        "kindsCode": "FT_1X2",
+        "oddsType": "OU",
+        "handicap": "Draw",
+        "odds": 3,
+        "rr": 0.92,
+        "wr": 0.3,
+        "homeOrAway": ""
+      }
+    ]
+  },
+  "FT_AH": {
+    "160205622": [
+      {
+        "kindsCode": "FT_AH",
+        "oddsType": "OU",
+        "handicap": "-0/0.5",
+        "odds": 2.04,
+        "rr": 0.96,
+        "wr": 0.47,
+        "homeOrAway": "Home"
+      },
+      {
+        "kindsCode": "FT_AH",
+        "oddsType": "OU",
+        "handicap": "+0/0.5",
+        "odds": 1.8,
+        "rr": 0.96,
+        "wr": 0.52,
+        "homeOrAway": "Away"
+      }
+    ],
+    "160205623": [
+      {
+        "kindsCode": "FT_AH",
+        "oddsType": "OU",
+        "handicap": "0",
+        "odds": 1.69,
+        "rr": 0.95,
+        "wr": 0.56,
+        "homeOrAway": "Home"
+      },
+      {
+        "kindsCode": "FT_AH",
+        "oddsType": "OU",
+        "handicap": "0",
+        "odds": 2.17,
+        "rr": 0.95,
+        "wr": 0.43,
+        "homeOrAway": "Away"
+      }
+    ]
+  },
+  "FT_OU": {
+    "160205627": [
+      {
+        "kindsCode": "FT_OU",
+        "oddsType": "OU",
+        "handicap": "2",
+        "odds": 1.82,
+        "rr": 0.96,
+        "wr": 0.51,
+        "homeOrAway": "Over"
+      },
+      {
+        "kindsCode": "FT_OU",
+        "oddsType": "OU",
+        "handicap": "2",
+        "odds": 2,
+        "rr": 0.96,
+        "wr": 0.48,
+        "homeOrAway": "Under"
+      }
+    ],
+    "160205628": [
+      {
+        "kindsCode": "FT_OU",
+        "oddsType": "OU",
+        "handicap": "2/2.5",
+        "odds": 2.09,
+        "rr": 0.96,
+        "wr": 0.45,
+        "homeOrAway": "Over"
+      },
+      {
+        "kindsCode": "FT_OU",
+        "oddsType": "OU",
+        "handicap": "2/2.5",
+        "odds": 1.73,
+        "rr": 0.96,
+        "wr": 0.54,
+        "homeOrAway": "Under"
+      }
+    ]
+  }
+}
